@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">BloodDotNet</string>
-    <string name="map_key" translatable="false">AIzaSyB5ZKxYp5Aol85NXL7_z_ayMTWdEuJuYw8</string>
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
 </resources>
